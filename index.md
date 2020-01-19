@@ -8,7 +8,4 @@
 Oder eine Liste:
 - Item 2
 - Item 5
-- item bla bla
-
-
-$\alpha^2$
+- item bla bla 
