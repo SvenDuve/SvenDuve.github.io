@@ -6,12 +6,12 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Avalon Analytics
-description: Initial Webpage for Avalon Analytics
+title: Avalon ML
+description: Initial Webpage for Avalon ML
 github_username: SvenDuve
 
 # Email and twitter are optional:
-email: svenduve@gmail.com
+email: sven@avalon.ml
 twitter_username: SvenDuve
 linkedin_username: SvenDuve
 
